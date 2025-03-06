@@ -2,7 +2,7 @@
 
 <p>Una API moderna para gestionar productos y precios especiales en tu tienda</p>
 
-[![Node.js](https://img.shields.io/badge/Node.js-14.x+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x+-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Express](https://img.shields.io/badge/Express-4.18-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![npm](https://img.shields.io/badge/npm-8.x-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
@@ -45,7 +45,7 @@ Esta API RESTful está diseñada para gestionar productos y precios especiales. 
 1. Clona el repositorio:
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/sebas19957/backend-challenge-drenvio
    cd nombre-del-repo
    ```
 
